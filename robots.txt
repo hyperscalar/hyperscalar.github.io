@@ -1,0 +1,31 @@
+User-agent: *
+
+Disallow: zh/js
+Disallow: zh/css
+Disallow: zh/lib
+Disallow: en/js
+Disallow: en/css
+Disallow: en/lib
+
+Allow: /
+Allow: /zh
+Allow: /en
+Allow: /zh/posts
+Allow: /zh/archives
+Allow: /zh/categories
+Allow: /zh/tags
+Allow: /zh/thoughts
+Allow: /zh/books
+Allow: /zh/courses
+Allow: /zh/about
+Allow: /en/posts
+Allow: /en/archives
+Allow: /en/categories
+Allow: /en/tags
+Allow: /en/thoughts
+Allow: /en/books
+Allow: /en/courses
+Allow: /en/about
+
+Sitemap: https://devtunes.github.io/zh/sitemap.xml
+Sitemap: https://devtunes.github.io/en/sitemap.xml
