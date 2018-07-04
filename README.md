@@ -1,8 +1,7 @@
-# [Devtunes's](https://devtunes.github.io/)
+# [Bruce He, 回锅肉](https://devtunes.github.io/)
 
 ## Contents
 
 - Main Page (Under construction)
-- [中文博客](https://devtunes.github.io/zh/)
-- [English Blog](https://devtunes.github.io/en/)
-- Project Pages
+- 个人博客: [学习与探索笔记](https://devtunes.github.io/zh/)
+- Personal Blog: [Notes of Learning & Exploring](https://devtunes.github.io/en/)
