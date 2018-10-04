@@ -1,4 +1,7 @@
 User-agent: *
+
+Disallow: /scripts
+Disallow: /styles
 Disallow: /zh/js
 Disallow: /zh/css
 Disallow: /zh/lib
@@ -8,4 +11,3 @@ Disallow: /en/lib
 
 Sitemap: https://devtunes.github.io/zh/sitemap.xml
 Sitemap: https://devtunes.github.io/en/sitemap.xml
-
