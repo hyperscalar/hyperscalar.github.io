@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow:
+
+Sitemap: https://hyperscalar.github.io/zh/sitemap.xml
+Sitemap: https://hyperscalar.github.io/en/sitemap.xml
